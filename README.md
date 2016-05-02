@@ -1,2 +1,2 @@
-# Quine-McCluckey
-Implementing Quine-McCluckey algorithm in java with GUI and web application.
+# Quine-McCluskey
+Implementing Quine-McCluskey algorithm in java with GUI and web application.
