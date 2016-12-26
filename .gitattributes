@@ -1,2 +1,2 @@
-*.rb linguist-language=Java
+client/stylesheets/* linguist-vendored
 
