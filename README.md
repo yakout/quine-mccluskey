@@ -7,6 +7,6 @@ Main features:
   - Using Petrick’s method
 
 • Link to the website:
-http://quinemccluskey-theprojects.rhcloud.com
+http://quine-mccluskey.rhcloud.com
 
 * NOTE: If the link above is not working for some reason, Please contact me as soon as possible.
